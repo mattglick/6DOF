@@ -2,6 +2,9 @@
 
 Tiltrotor Micro UAV
 
+Project Goal: 
+- Practice textbook control algorthims
+
 Stats:
 - 200 g
 - 13 m/s
