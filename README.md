@@ -10,6 +10,6 @@ Stats:
 - FPV Capabilities
 
 In this repo:
-- WIP PX4/R0S2 6DOF
+- (WIP) PX4/R0S2 6DOF
 - MATLAB Sizing
 - Control Theory Explanations
