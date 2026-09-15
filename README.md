@@ -1,2 +1,15 @@
-# 6DOF
-Professional Grade 6 Degrees-of-freedom aircraft analysis simulator in C++
+# Whirly Bird
+
+Tiltrotor Micro UAV
+
+Stats:
+- 200 g
+- 13 m/s
+- Advanced Hover Flight Controls
+- V Tail
+- FPV Capabilities
+
+In this repo:
+- WIP PX4/R0S2 6DOF
+- MATLAB Sizing
+- Control Theory Explanations
